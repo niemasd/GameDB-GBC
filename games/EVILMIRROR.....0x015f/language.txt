@@ -1,0 +1,11 @@
+English
+French
+German
+Spanish
+Italian
+Dutch
+Portuguese
+Swedish
+Norwegian
+Danish
+Finnish
