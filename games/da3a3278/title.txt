@@ -1,1 +1,1 @@
-Papyrus
+Papyrus (En,Fr,De,Es,It,Nl)

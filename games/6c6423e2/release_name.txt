@@ -1,1 +1,1 @@
-RoboCop (Europe) (En,Fr,De,Es,It,Nl)
+RoboCop (Europe) (En,Fr,De,Es,It,Nl).gbc
