@@ -1,1 +1,1 @@
-[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En).gbc
+[BIOS] Nintendo Game Boy Color Boot ROM (Japan) (En)
